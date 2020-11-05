@@ -1,3 +1,7 @@
+# Deployed Website
+
+This project currently runs on this link: https://shamhu-weather-app.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

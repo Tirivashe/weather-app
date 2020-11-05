@@ -30,7 +30,7 @@ function App() {
 
   return (
     <main className="bg-gray-200 min-h-screen">
-      <div id="search-box" className="mx-auto max-w-4xl h-10">
+      <div id="search-box" className="mx-auto max-w-xl h-10">
         <input className="w-full h-full pl-4 py-5 outline-none" type="text" placeholder="Search..." value={query} onChange={handleChange} onKeyPress={search}/>
       </div>
       <div>

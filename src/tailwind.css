@@ -3,3 +3,7 @@
 @tailwind components;
 
 @tailwind utilities;
+
+.card{
+  @apply w-64 h-64 shadow-lg bg-white rounded mx-auto flex flex-col items-center p-5;
+}
